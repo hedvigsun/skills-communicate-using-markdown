@@ -1,4 +1,9 @@
 # Hej
+#### What to do
+- [ ] Learn Markdown
+- [ ] create website
+- [ ] show someone
+
 ## Hej igen
 ```
 $ git init
